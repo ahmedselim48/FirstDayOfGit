@@ -1,0 +1,34 @@
+What is Git?
+Git is a distributed version control system used for tracking changes in source code during software development. It allows multiple developers to collaborate on a project by managing revisions, merging code, and maintaining a history of changes.
+
+2.Git is the same as GitHub? True or (False)
+
+3. git --version
+
+4- --global
+
+5- •	git config user.email
+
+--  git add -all
+git add *
+
+6- •	git status
+
+7- •	git init
+
+8- False
+
+9- git commit
+
+10- git commit -m "New email"
+
+11- git log
+
+12 -•	A separate version of the main repository
+
+13 - git branch new-email
+
+14 - git checkout new-email
+
+15 -git merge new-email
+
